@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Pertambahan tinggi pada tubuh manusia dapat terjadi seiring dengan pertambahan usia sampai tahap tetentu. Hal tersebut terjadi karena sel sel manusia mengalami...",
+    "choice1": "mitosis",
+    "choice2": "meiosis",
+    "choice3": "karyokinesi",
+    "choice4": "sitokinesis",
+    "answer": 1
+  },
+  {
+    "question": "Keuntungan yang dapat diperoleh dengan mengawinkan sapi dengan cara inseminasi buatan adalah...",
+    "choice1": "Keturunan yang dihasilkan memiliki set kromosom haploid",
+    "choice2": "Tidak melibatkan gamet jantan",
+    "choice3": "terhindar dari penyakit kelamin",
+    "choice4": "kehamilan menjadi tidak",
+    "answer": 3
+  },
+  {
+    "question": "Peristiwa penguraian cahaya putih atas spektrum-spektrum yang memiliki frekuensi yang berbeda-beda disebut...",
+    "choice1": "Dispersi",
+    "choice2": "Efek Doppler",
+    "choice3": "Polarisasi",
+    "choice4": "Difraksi",
+    "answer": 1
+  },
+    {
+    "question": "Manakah yang termasuk besaran gelombang?",
+    "choice1": "Frekuensi",
+    "choice2": "arus",
+    "choice3": "tegangan",
+    "choice4": "impedanzi",
+    "answer": 1
+  },
+    {
+    "question": "Berdasarkan sistem klasifikasi 5 kingdom, bakteri dan cyanobacteria termasuk ke dalam kingdom...",
+    "choice1": "protista",
+    "choice2": "monera",
+    "choice3": "fungi",
+    "choice4": "plantae",
+    "answer": 2
+  }
+]
